@@ -7,7 +7,9 @@ package Assignment_1.Question_1;
 
 public class PrintName {
     public static void main(String[] args) {
-
+/**
+ * main hii 1
+ */
         var name = "Amit Kundu";
         var dep = "CSE";
         var roll = 44;
